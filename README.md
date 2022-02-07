@@ -1,5 +1,21 @@
-<br><br><br><br>
+# Payment Gateway Integration
 
+## A simple payment gateway integration website using Razorpay
+
+<br>
+
+Live Demo **[sonu.live/donate](https://www.sonu.live/donate/)**
+
+<br>
+
+**Fontend** 
+- HTML
+- CSS
+
+**Payment Interface**
+- Razorpay
+
+<br><br>
 
 **&copy; [Sonu Kumar Kushwaha](https://github.com/flyingsonu122)**
 
@@ -25,10 +41,8 @@ Thank you for being here! You can find my other **[projects here](https://github
 	
 </p>
 
-<br>
-
-<br>
+<br/><br/>
 <p align="center">
-<a href="https://youtube.com/playlist?list=PLPTNm43hfM6FAXNFV1_jBKuehow6Rkb6D"><img alt="Have a good day!" src="https://media.giphy.com/media/WQOFQXuVEZ90MtDdsx/giphy.gif" width="200px"></a>
+<a href="#"><img alt="Have a good day!" src="https://media.giphy.com/media/WQOFQXuVEZ90MtDdsx/giphy.gif" width="200px"></a>
 </p>
 

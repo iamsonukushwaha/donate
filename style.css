@@ -1,0 +1,56 @@
+*,
+*::before,
+ ::after {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: white;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+.modal-header {
+    padding: 10px 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.modal-header .title {
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.modal-header .title>h1 {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.modal-body {
+    padding: 10px 15px;
+    height: 90vh;
+    max-height: 70%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.modal-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 40px;
+    padding: 10px 20px;
+}
+
+@media screen and (max-width: 350px) {
+    .modal-body {
+        flex-direction: column;
+    }
+    img {
+        width: 100%;
+        padding-top: 20px;
+    }
+}
